@@ -9,6 +9,7 @@ Software side, I specialise in:
 - TailwindCSS
 - JavaScript 
 - Python
+- MySQL
 
 And for hardware, I bring the knowledge of:
 - Verilog 
