@@ -17,7 +17,7 @@ And for hardware, I bring the knowledge of:
 - Vivado
 - FPGA
 
-I am capable of working in both domains and passionate about them. You can reach out to me for any queries or work right here on LinkedIn or on my email.
+I am capable of working in both domains and passionate about them. You can reach out to me for any queries on my email, fahad.rasheed004@gmail.com.
 
 Cheers!
 
