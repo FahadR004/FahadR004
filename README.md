@@ -1,24 +1,26 @@
 ## Hello 👋 
 
-I am Fahad Rasheed, Final Year Computer Engineering Student from NED University of Engineering and Technology. I am currently working as a Full-Stack Developer at Virtuosoft.
+I am Fahad Rasheed, Computer Engineering Graduate from NED University of Engineering and Technology. I am currently enrolled as an IC Design Trainee in the INSPIRE USTP Program by PSEB.
 
-As a Computer Engineering Student, I have a unique edge, not only knowing the abstracted software but also  the underlying hardware of computers.
+As a Computer Engineering Student, I have a unique edge not only having knowledge of the abstracted software but the underlying hardware of computers.
 
-Software side, I specialise in:
+On the hardware side, I specialise in:
+- Verilog 
+- SystemVerilog
+- RISC-V Architecture
+- FPGAs
+- Vivado / Quartus / ModelSim / EDA Playground
+- C / C++
+
+Whereas in software, I have worked with:
 - MERN
-- TailwindCSS
+- Flask
+- MySQL
 - JavaScript 
 - Python
-- MySQL
+- TailwindCSS
 
-And for hardware, I bring the knowledge of:
-- Verilog 
-- RISC-V Architecture 
-- MIPS
-- Vivado
-- FPGA
-
-I am capable of working in both domains and passionate about them. You can reach out to me for any queries on my email, fahad.rasheed004@gmail.com.
+I am capable of working in both domains and am passionate about them. You can reach out to me for any queries on my email, fahad.rasheed004@gmail.com.
 
 Cheers!
 
