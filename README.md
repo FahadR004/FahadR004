@@ -1,26 +1,23 @@
 ## Hello 👋 
 
-I am Fahad Rasheed, Computer Engineering Graduate from NED University of Engineering and Technology. I am currently enrolled as an IC Design Trainee in the INSPIRE USTP Program by PSEB.
+I am Fahad Rasheed, Computer Engineering Graduate from NED University of Engineering and Technology. I am currently working as a Trainee Engineer in the Embedded Team at Digitek Engineering.
 
 As a Computer Engineering Student, I have a unique edge not only having knowledge of the abstracted software but the underlying hardware of computers.
 
-On the hardware side, I specialise in:
+I specialise in:
 - Verilog 
 - SystemVerilog
 - RISC-V Architecture
 - FPGAs
 - Vivado / Quartus / ModelSim / EDA Playground
+- Linux
 - C / C++
-
-Whereas in software, I have worked with:
-- MERN
-- Flask
-- MySQL
-- JavaScript 
 - Python
-- TailwindCSS
 
-I am capable of working in both domains and am passionate about them. You can reach out to me for any queries on my email, fahad.rasheed004@gmail.com.
+I am capable of working in both domains and am passionate about them. Check out my GitHub profile to see the different projects I have worked on: https://github.com/FahadR004.
+
+You can reach out to me for any queries on my email, fahad.rasheed004@gmail.com. 
+
 
 Cheers!
 
