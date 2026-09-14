@@ -14,9 +14,7 @@ I specialise in:
 - C / C++
 - Python
 
-I am capable of working in both domains and am passionate about them. Check out my GitHub profile to see the different projects I have worked on: https://github.com/FahadR004.
-
-You can reach out to me for any queries on my email, fahad.rasheed004@gmail.com. 
+I am capable of working in both domains and am passionate about them. You can reach out to me for any queries at my email: fahad.rasheed004@gmail.com. 
 
 
 Cheers!
